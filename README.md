@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amrittt22/submissions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amrittt22/submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amrittt22/submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Amrittt22/submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amrittt22/submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Amrittt22/submissions/tree/master/3731-find-missing-elements) |
 ## Binary Lifting
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Amrittt22/submissions/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
