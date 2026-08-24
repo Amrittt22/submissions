@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amrittt22/submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Amrittt22/submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Amrittt22/submissions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Amrittt22/submissions/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Amrittt22/submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Amrittt22/submissions/tree/master/0994-rotting-oranges) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amrittt22/submissions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Amrittt22/submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amrittt22/submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amrittt22/submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amrittt22/submissions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Amrittt22/submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amrittt22/submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Amrittt22/submissions/tree/master/3731-find-missing-elements) |
