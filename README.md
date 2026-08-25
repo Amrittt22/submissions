@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Amrittt22/submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Amrittt22/submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Amrittt22/submissions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Amrittt22/submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Amrittt22/submissions/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Amrittt22/submissions/tree/master/0733-flood-fill) |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Amrittt22/submissions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Amrittt22/submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
