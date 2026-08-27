@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Amrittt22/submissions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amrittt22/submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Amrittt22/submissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Amrittt22/submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2029-stone-game-ix](https://github.com/Amrittt22/submissions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amrittt22/submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amrittt22/submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Amrittt22/submissions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Amrittt22/submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Amrittt22/submissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Amrittt22/submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Design
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Amrittt22/submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Amrittt22/submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Amrittt22/submissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Amrittt22/submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
