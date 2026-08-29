@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amrittt22/submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amrittt22/submissions/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Amrittt22/submissions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amrittt22/submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amrittt22/submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amrittt22/submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Amrittt22/submissions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amrittt22/submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Amrittt22/submissions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Amrittt22/submissions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amrittt22/submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -194,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amrittt22/submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Amrittt22/submissions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Amrittt22/submissions/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amrittt22/submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Amrittt22/submissions/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amrittt22/submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amrittt22/submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
