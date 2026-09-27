@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Amrittt22/submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Amrittt22/submissions/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amrittt22/submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amrittt22/submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Amrittt22/submissions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Amrittt22/submissions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Amrittt22/submissions/tree/master/0981-time-based-key-value-store) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amrittt22/submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Amrittt22/submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amrittt22/submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Amrittt22/submissions/tree/master/3498-reverse-degree-of-a-string) |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Amrittt22/submissions/tree/master/1192-critical-connections-in-a-network) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amrittt22/submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
