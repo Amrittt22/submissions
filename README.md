@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Amrittt22/submissions/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amrittt22/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Amrittt22/submissions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Amrittt22/submissions/tree/master/0371-sum-of-two-integers) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Amrittt22/submissions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Amrittt22/submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Amrittt22/submissions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Amrittt22/submissions/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/Amrittt22/submissions/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amrittt22/submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Amrittt22/submissions/tree/master/3498-reverse-degree-of-a-string) |
