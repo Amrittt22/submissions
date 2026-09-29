@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amrittt22/submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Amrittt22/submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Amrittt22/submissions/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/Amrittt22/submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amrittt22/submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Amrittt22/submissions/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Amrittt22/submissions/tree/master/0137-single-number-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Amrittt22/submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amrittt22/submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Amrittt22/submissions/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
