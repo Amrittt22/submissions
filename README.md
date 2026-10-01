@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Amrittt22/submissions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amrittt22/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Amrittt22/submissions/tree/master/0173-binary-search-tree-iterator) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Amrittt22/submissions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Amrittt22/submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Amrittt22/submissions/tree/master/0058-length-of-last-word) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amrittt22/submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amrittt22/submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amrittt22/submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
