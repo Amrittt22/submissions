@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amrittt22/submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Amrittt22/submissions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Amrittt22/submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amrittt22/submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Amrittt22/submissions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amrittt22/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Amrittt22/submissions/tree/master/0173-binary-search-tree-iterator) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Amrittt22/submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Amrittt22/submissions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Amrittt22/submissions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Amrittt22/submissions/tree/master/0049-group-anagrams) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Amrittt22/submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amrittt22/submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amrittt22/submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amrittt22/submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
