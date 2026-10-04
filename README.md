@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Amrittt22/submissions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Amrittt22/submissions/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Amrittt22/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrittt22/submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrittt22/submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Amrittt22/submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Amrittt22/submissions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amrittt22/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Amrittt22/submissions/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/Amrittt22/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Amrittt22/submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Amrittt22/submissions/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amrittt22/submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Amrittt22/submissions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Amrittt22/submissions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Amrittt22/submissions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Amrittt22/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0981-time-based-key-value-store](https://github.com/Amrittt22/submissions/tree/master/0981-time-based-key-value-store) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amrittt22/submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amrittt22/submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amrittt22/submissions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Amrittt22/submissions/tree/master/0678-valid-parenthesis-string) |
 | [2029-stone-game-ix](https://github.com/Amrittt22/submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Amrittt22/submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Minimax
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Amrittt22/submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Amrittt22/submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amrittt22/submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amrittt22/submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amrittt22/submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
