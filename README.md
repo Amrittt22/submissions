@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amrittt22/submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Amrittt22/submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Amrittt22/submissions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Amrittt22/submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amrittt22/submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Amrittt22/submissions/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Amrittt22/submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Amrittt22/submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amrittt22/submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Amrittt22/submissions/tree/master/0202-happy-number) |
@@ -520,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amrittt22/submissions/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Amrittt22/submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
