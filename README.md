@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Amrittt22/submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Amrittt22/submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Amrittt22/submissions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Amrittt22/submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amrittt22/submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amrittt22/submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Amrittt22/submissions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Amrittt22/submissions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Amrittt22/submissions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Amrittt22/submissions/tree/master/0567-permutation-in-string) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amrittt22/submissions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0301-remove-invalid-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
