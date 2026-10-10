@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amrittt22/submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1631-path-with-minimum-effort](https://github.com/Amrittt22/submissions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amrittt22/submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amrittt22/submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Amrittt22/submissions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2029-stone-game-ix](https://github.com/Amrittt22/submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Amrittt22/submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amrittt22/submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amrittt22/submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amrittt22/submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amrittt22/submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amrittt22/submissions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Amrittt22/submissions/tree/master/0389-find-the-difference) |
 | [0853-car-fleet](https://github.com/Amrittt22/submissions/tree/master/0853-car-fleet) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amrittt22/submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amrittt22/submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Amrittt22/submissions/tree/master/3731-find-missing-elements) |
 ## Binary Lifting
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Amrittt22/submissions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2029-stone-game-ix](https://github.com/Amrittt22/submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Amrittt22/submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amrittt22/submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Minimax
 |  |
 | ------- |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Amrittt22/submissions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrittt22/submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Amrittt22/submissions/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amrittt22/submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
