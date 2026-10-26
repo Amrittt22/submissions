@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Amrittt22/submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Amrittt22/submissions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Amrittt22/submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amrittt22/submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Amrittt22/submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amrittt22/submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amrittt22/submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amrittt22/submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Amrittt22/submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amrittt22/submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Amrittt22/submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Amrittt22/submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Amrittt22/submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Amrittt22/submissions/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amrittt22/submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Amrittt22/submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amrittt22/submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Amrittt22/submissions/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amrittt22/submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Amrittt22/submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Amrittt22/submissions/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Amrittt22/submissions/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amrittt22/submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
