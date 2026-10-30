@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Amrittt22/submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Amrittt22/submissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Amrittt22/submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Amrittt22/submissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrittt22/submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Amrittt22/submissions/tree/master/0733-flood-fill) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Amrittt22/submissions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Amrittt22/submissions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Amrittt22/submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Amrittt22/submissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Amrittt22/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrittt22/submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amrittt22/submissions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Amrittt22/submissions/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -684,11 +687,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Amrittt22/submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Amrittt22/submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Amrittt22/submissions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Amrittt22/submissions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Amrittt22/submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Amrittt22/submissions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Amrittt22/submissions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
