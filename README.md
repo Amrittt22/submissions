@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amrittt22/submissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Amrittt22/submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amrittt22/submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amrittt22/submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Amrittt22/submissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrittt22/submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Amrittt22/submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amrittt22/submissions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Amrittt22/submissions/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amrittt22/submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0853-car-fleet](https://github.com/Amrittt22/submissions/tree/master/0853-car-fleet) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amrittt22/submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Amrittt22/submissions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Amrittt22/submissions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Amrittt22/submissions/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amrittt22/submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amrittt22/submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Amrittt22/submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Amrittt22/submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amrittt22/submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
