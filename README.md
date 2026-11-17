@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Amrittt22/submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Amrittt22/submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Amrittt22/submissions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Amrittt22/submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Amrittt22/submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Amrittt22/submissions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amrittt22/submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Amrittt22/submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Amrittt22/submissions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Amrittt22/submissions/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/Amrittt22/submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Amrittt22/submissions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Amrittt22/submissions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Amrittt22/submissions/tree/master/0763-partition-labels) |
